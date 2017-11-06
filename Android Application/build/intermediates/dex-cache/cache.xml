@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\6ff129cf5e885b4869cb2f85c0250c4528a4ef94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\classes_43723d46975ab5b8d439a804cb5cf35102178104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ff29343e76156bb2992d43788fdbd51cd90a4617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\18296ff277d4b5fbc6224cb07bd687b0619042f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\classes_104030dcd1412d53365cca7e7895eb9f84e0f055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\c3714799c415d06c3030fb4e8a15a83c316b3985\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\classes_25c21f52272a05c7fde1a56eed95259c99f4f576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\6dffbeaecfa60c044944894dc66e0be50ac63f7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\classes_b6c0a9daaca1d92fa36d4fa9aded0913ba869069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\f6cd9c521b3d77020d5a59386847db7b65514bd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\classes_f071632409333625d7bd61ca04e39be50112baa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\6dffbeaecfa60c044944894dc66e0be50ac63f7a\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_cf1b027f0e94d9a09c82941a04e29a3ff5eb62fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\e9392c936b810ba5ec1817ad32325eab67e50bd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\classes_e87ad92265fbef19e56467ca4aea7c1c3488eccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\FingerPrintHome\app\libs\systembartint-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\systembartint-1.0.4_f3f9f91b9c182d41eb9471b2847fb87d4708e987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\FingerPrintHome\app\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="E:\Android\FingerPrintHome\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_1b16b01be0b21f8adc47475a1a49393405005c15.jar" />
+    </item>
+
+</items>
