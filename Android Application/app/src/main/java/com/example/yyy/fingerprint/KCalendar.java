@@ -23,11 +23,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 日历控件
- * 
- * @author huangyin
- */
 @SuppressWarnings("deprecation")
 public class KCalendar extends ViewFlipper implements
 		android.view.GestureDetector.OnGestureListener {

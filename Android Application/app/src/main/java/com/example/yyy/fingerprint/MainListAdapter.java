@@ -5,18 +5,15 @@ import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.example.yyy.fingerprint.FolderManage.Authority;
 import com.example.yyy.fingerprint.RequestService.Synchro;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
- * Created by YYY on 2017/2/15.
+ * Created by admin on 2017/10/15.
  */
 
 public class MainListAdapter extends BaseAdapter {

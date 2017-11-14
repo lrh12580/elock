@@ -17,7 +17,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 /**
- * Created by admin on 2017/2/26.
+ * Created by admin on 2017/10/26.
  */
 
 public class VerifyThread extends Thread {

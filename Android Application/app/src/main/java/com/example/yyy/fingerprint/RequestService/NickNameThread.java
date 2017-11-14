@@ -1,7 +1,5 @@
 package com.example.yyy.fingerprint.RequestService;
 
-import android.app.Activity;
-import android.os.Message;
 import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
@@ -23,7 +21,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 /**
- * Created by YYY on 2017/4/2.
+ * Created by admin on 2017/10/2.
  */
 
 public class NickNameThread extends Thread {

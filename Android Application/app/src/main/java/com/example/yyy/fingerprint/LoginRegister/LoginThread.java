@@ -1,18 +1,10 @@
 package com.example.yyy.fingerprint.LoginRegister;
 
-import android.app.Activity;
-import android.content.Intent;
-import android.os.Handler;
 import android.os.Message;
 import android.text.TextUtils;
 import android.util.Log;
-import android.view.ViewGroup;
-import android.widget.EditText;
-import android.widget.Toast;
 
 import com.example.yyy.fingerprint.LoginActivity;
-import com.example.yyy.fingerprint.MainActivity;
-import com.example.yyy.fingerprint.R;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -24,7 +16,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 /**
- * Created by admin on 2017/2/18.
+ * Created by admin on 2017/10/18.
  */
 public class LoginThread extends Thread{
     private String IMEI;

@@ -1,7 +1,7 @@
 package com.example.yyy.fingerprint.RequestService;
 
 /**
- * Created by admin on 2017/2/25.
+ * Created by admin on 2017/10/25.
  */
 
 public class Synchro {

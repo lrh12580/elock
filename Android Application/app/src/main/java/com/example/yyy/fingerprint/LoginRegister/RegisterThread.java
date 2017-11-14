@@ -1,13 +1,9 @@
 package com.example.yyy.fingerprint.LoginRegister;
 
-import android.app.Activity;
-import android.content.Context;
-import android.content.Intent;
 import android.os.Message;
 import android.text.TextUtils;
 import android.widget.Toast;
 
-import com.example.yyy.fingerprint.MainActivity;
 import com.example.yyy.fingerprint.RegisterActivity;
 
 import java.io.BufferedReader;
@@ -20,7 +16,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 /**
- * Created by admin on 2017/2/17.
+ * Created by admin on 2017/10/17.
  */
 public class RegisterThread extends Thread {
     private String user_id;

@@ -21,7 +21,7 @@ import Decoder.BASE64Decoder;
 import Decoder.BASE64Encoder;
 
 /**
- * Created by admin on 2017/2/13.
+ * Created by admin on 2017/10/13.
  */
 public class MyEncript {
     //指定key的大小

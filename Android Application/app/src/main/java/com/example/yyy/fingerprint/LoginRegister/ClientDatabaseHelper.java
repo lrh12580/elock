@@ -7,13 +7,8 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.example.yyy.fingerprint.FolderManage.Authority;
-
-import java.util.ArrayList;
-import java.util.List;
-
 /**
- * Created by admin on 2016/8/4.
+ * Created by admin on 2017/10/4.
  */
 public class ClientDatabaseHelper extends SQLiteOpenHelper {
 

@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by YYY on 2017/2/20.
+ * Created by admin on 2017/10/20.
  */
 
 public class PersonalDataAdapter extends ArrayAdapter<String[]> {

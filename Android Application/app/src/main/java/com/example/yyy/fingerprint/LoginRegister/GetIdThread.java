@@ -14,7 +14,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 /**
- * Created by admin on 2017/2/18.
+ * Created by admin on 2017/10/18.
  */
 public class GetIdThread extends Thread {
     private String IMEI;
